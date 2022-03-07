@@ -1,0 +1,29 @@
+ceo
+reghead
+sechead
+divhead
+sectionhead
+staff
+
+summon task
+staff->approval sechead(reject approve)->approval divhead(approval only)
+
+
+message 
+ceo->reghead foward to ->divhead foward->section head(done read)
+
+////////////////////////////////////////////////////////////////////
+task code
+1. process
+
+2. request 
+
+3.approval sec head
+approval sechead(bisa reject and approve) kalo reject balik ke process
+
+4.approval div head
+approval divhead(gak bisa reject) 
+/////////////////////////////////////////////////////////////////
+
+message code
+
